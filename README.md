@@ -9,7 +9,7 @@ It covers the following topics:
 - Neural Networks
 - Language
 
-https://cs50.harvard.edu/x/2020/
+https://cs50.harvard.edu/ai/2020/
 
 After its completion, I decided to focus on Machine learning. 
 
