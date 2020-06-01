@@ -13,6 +13,8 @@ https://cs50.harvard.edu/ai/2020/
 
 After its completion, I decided to focus on Machine learning. 
 
+![](certificate/CS50xAI.png)
+
 
 
 
