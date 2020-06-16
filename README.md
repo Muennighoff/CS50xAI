@@ -1,3 +1,4 @@
+# CS50xAI
 The course gives an introduction to the different branches of AI. 
 
 It covers the following topics:
